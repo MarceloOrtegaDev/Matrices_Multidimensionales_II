@@ -1,4 +1,4 @@
-# Sistema de Registro de Personas con Teléfonos
+# Sistema de Registro de Personas con Teléfonos, hijos y filtro de datos
 
 Este es un sistema de consola (CMD/Terminal) que permite registrar personas con múltiples números telefónicos, hijos y filtrar por ellos. Está disponible en **JavaScript** y **Python**.
 
